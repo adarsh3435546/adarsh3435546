@@ -1,24 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=200&section=header&text=Adarsh%20S.&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20DSA&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey%20There!%20I'm%20Adarsh%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+scalable+backend+applications;Java+%7C+Spring+Boot+%7C+PostgreSQL;Turning+ideas+into+real+projects;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
 
-<a href="https://github.com/adarsh3435546">
-<img src="https://komarev.com/ghpvc/?username=adarsh3435546&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Practicing-orange?style=flat&logo=leetcode&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-success?style=flat&logo=springboot&logoColor=white" />
+<br><br>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&random=false&width=750&lines=Building+scalable+backend+applications+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+PostgreSQL+%F0%9F%9A%80;Turning+ideas+into+real+projects+%F0%9F%92%A1;Always+learning.+Always+building.+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
 
+<a href="https://github.com/adarsh3435546">
+<img src="https://komarev.com/ghpvc/?username=adarsh3435546&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+</a>
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=LeetCode&query=%24.solvedProblem&url=https://leetcode-stats-api.herokuapp.com/adarsh3435546&style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=30&section=header"/>
+
 ## 🧭 About Me
 
-I'm a Computer Science & Engineering student who builds backend systems for a living (well — almost). I care about **clean architecture, secure APIs, and code that still makes sense six months later.**
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+I'm a Computer Science & Engineering student who builds backend systems that actually hold up in production. I care about **clean architecture, secure APIs, and code that still makes sense six months later.**
 
 ```java
 public class Adarsh {
@@ -33,181 +43,190 @@ public class Adarsh {
 
 - 🔭 Currently building full-stack apps with **Spring Boot + React**
 - 🌱 Deepening skills in **Spring Security, JWT, and database design**
-- 🧠 Practicing **DSA** with a focus on patterns, not memorization
-- 💬 Ask me about **REST APIs, PostgreSQL, or backend architecture**
-- ⚡ Fun fact: I've gone from a FastAPI intern parsing multi-GB network logs to architecting full-stack apps with role-based auth
+- 🧠 Practicing **DSA** — patterns over memorization
+- 💬 Ask me about **REST APIs, PostgreSQL, backend architecture**
+- ⚡ Fun fact: went from parsing multi-GB network logs as an intern to shipping full-stack apps with role-based auth
 
----
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="120" align="center">🏢</td>
-<td>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35" align="left">
 
-**Software Developer Intern** — Alcatel-Lucent Enterprise
+### Software Developer Intern — Alcatel-Lucent Enterprise
+
+<br>
 
 Worked on tooling for large-scale network data analysis — built a **FastAPI-based platform** to ingest, parse, filter, and visualize AOS switch logs and HMON datasets across **multi-GB** files, with automation workflows to speed up log analysis.
 
-`Python` `FastAPI` `Data Processing` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Data_Processing-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
 </p>
 
-</td>
-<td valign="top" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 
-**Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
-</p>
+## 🛠️ Tech Arsenal
 
-</td>
-<td valign="top" width="33%">
+<div align="center">
 
-**Database**
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postgresql,mongodb&theme=dark" />
 
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark" />
 
-</td>
-<td valign="top">
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 
-**Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
+<br>
 
-</td>
-<td valign="top">
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
-**Core Focus**
-<p>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat"/>
-</p>
+</div>
 
-</td>
-</tr>
-</table>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 
 ## 🚀 Featured Projects
 
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7a4c0aeb.gif" width="35" align="left">
+
 ### 💰 Finance Tracker
+
+<br>
+
 Full-stack personal finance management app with layered backend architecture.
 
 | Layer | Details |
 |---|---|
-| **Backend** | Spring Boot, Spring Security, JWT Auth, JPA/Hibernate |
+| **Backend** | Spring Boot · Spring Security · JWT Auth · JPA/Hibernate |
 | **Database** | PostgreSQL |
 | **Features** | 🔐 Auth · 💳 Transactions · 📊 Dashboard · 💰 Budgets · 🏷️ Categories · 🛡️ Role-based access |
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7a4c0aeb.gif" width="35" align="left">
 
 ### 🍬 Kasthuri Sweets
+
+<br>
+
 Full-stack e-commerce app with real payment integration.
 
 | Layer | Details |
 |---|---|
-| **Stack** | Spring Boot, PostgreSQL, React, Vite, Razorpay |
+| **Stack** | Spring Boot · PostgreSQL · React · Vite · Razorpay |
 | **Features** | 🛒 Product management · 👤 Auth · 💳 Razorpay payments · 📦 Orders · 🔗 REST APIs |
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7a4c0aeb.gif" width="35" align="left">
 
 ### 🚗 Vehicle Rental Platform
+
+<br>
+
 Backend-focused rental management system built around real-world rental workflows.
 
 | Layer | Details |
 |---|---|
 | **Focus** | REST APIs · Database Design · Backend Architecture · Java |
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 
 ## 🧠 Problem Solving
 
+<div align="center">
+
 Practicing DSA with an emphasis on recognizing patterns over memorizing solutions:
 
-`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Binary Search` `Prefix Sum` `Stack` `Queue` `Linked List` `Trees` `Graphs` `Dynamic Programming`
+<img src="https://img.shields.io/badge/Arrays-36BCF7?style=flat-square"/> <img src="https://img.shields.io/badge/Strings-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/Hashing-4ECDC4?style=flat-square"/> <img src="https://img.shields.io/badge/Two_Pointers-FFD93D?style=flat-square"/> <img src="https://img.shields.io/badge/Sliding_Window-95E1D3?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/Binary_Search-A8E6CF?style=flat-square"/> <img src="https://img.shields.io/badge/Prefix_Sum-FF8B94?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-C7CEEA?style=flat-square"/> <img src="https://img.shields.io/badge/Queue-B5EAD7?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/Linked_List-FFDAC1?style=flat-square"/> <img src="https://img.shields.io/badge/Trees-E2F0CB?style=flat-square"/> <img src="https://img.shields.io/badge/Graphs-B5EAD7?style=flat-square"/> <img src="https://img.shields.io/badge/Dynamic_Programming-C7B8EA?style=flat-square"/>
 
-<div align="center">
+<br><br>
+
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-Practicing-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/adarsh3435546?theme=dark&font=Fira%20Code&ext=heatmap" />
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh3435546&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh3435546&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh3435546&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh3435546&theme=radical&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh3435546&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh3435546&layout=compact&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh3435546&theme=react-dark&hide_border=true" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=adarsh3435546&theme=radical&no-frame=true&row=1&margin-w=15" />
 
 </div>
 
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/adarsh3435546/adarsh3435546/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 
 ## 🎯 Roadmap
 
 ```mermaid
 graph LR
-    A[Java] --> B[Spring Boot]
-    B --> C[Spring Security]
-    C --> D[JPA / Hibernate]
-    D --> E[PostgreSQL]
-    E --> F[REST APIs]
-    F --> G[System Design]
-    G --> H[Scalable Backend Systems]
+    A[☕ Java] --> B[🌱 Spring Boot]
+    B --> C[🔐 Spring Security]
+    C --> D[🗄️ JPA / Hibernate]
+    D --> E[🐘 PostgreSQL]
+    E --> F[🔗 REST APIs]
+    F --> G[🏗️ System Design]
+    G --> H[⚡ Scalable Backend Systems]
+
+    style A fill:#f89820,stroke:#333,color:#fff
+    style B fill:#6DB33F,stroke:#333,color:#fff
+    style C fill:#6DB33F,stroke:#333,color:#fff
+    style D fill:#59666C,stroke:#333,color:#fff
+    style E fill:#336791,stroke:#333,color:#fff
+    style F fill:#02569B,stroke:#333,color:#fff
+    style G fill:#36BCF7,stroke:#333,color:#fff
+    style H fill:#0A66C2,stroke:#333,color:#fff
 ```
 
 My goal: become a backend engineer who doesn't just write code that runs — but designs systems that are reliable, secure, and maintainable at scale.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 
 ## 📚 Currently Learning
 
-🌱 Advanced Spring Boot · 🔐 Spring Security · 🗄️ Advanced SQL & DBMS · 🧠 DSA · 🏗️ Backend Architecture · ☁️ Cloud & Deployment
+<div align="center">
 
----
+🌱 Advanced Spring Boot &nbsp;|&nbsp; 🔐 Spring Security &nbsp;|&nbsp; 🗄️ Advanced SQL & DBMS &nbsp;|&nbsp; 🧠 DSA &nbsp;|&nbsp; 🏗️ Backend Architecture &nbsp;|&nbsp; ☁️ Cloud & Deployment
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
 
 ## 🤝 Let's Connect
 
@@ -220,10 +239,14 @@ My goal: become a backend engineer who doesn't just write code that runs — but
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:36BCF7&height=100&section=footer" width="100%"/>
+<i>Code → Learn → Build → Repeat 🔥</i>
 
-<div align="center"><i>Code → Learn → Build → Repeat 🔥</i></div>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer"/>
